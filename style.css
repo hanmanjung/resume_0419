@@ -22,7 +22,6 @@ footer {
   width: 610px;
   padding: 30px;
   margin: 30px;
-  margin: auto;
   margin: 0 auto;
   border: 1px solid #ebebeb;
   box-shadow: 0 1px 20px 0 rgba(0, 0, 0, 0.1);
@@ -43,8 +42,8 @@ h1 {
 
 h2 {
   font-size: 20px;
-  color:#282828;
-  font-weight: lighter;
+  color: #292929;
+  font-weight: lighter; 
   margin-bottom: 16px;
   padding-bottom: 5px;
   border-bottom: 1px solid #ebebeb;
@@ -103,4 +102,9 @@ section {
 .sns-img {
   width: 12px;
   height: 12px;
+}
+
+.photo-img{
+  float: left;
+  display: inline;
 }
